@@ -1,5 +1,3 @@
-# Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success
-
 # Cracking OSCP: Your Roadmap to Ethical Hacking Success
 
 ## About Me
