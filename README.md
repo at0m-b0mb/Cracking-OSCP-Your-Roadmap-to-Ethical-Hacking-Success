@@ -3,7 +3,7 @@
 # Cracking OSCP: Your Roadmap to Ethical Hacking Success
 
 ## About Me
-![Kailash Parshad](https://yt3.googleusercontent.com/gMyXiDLJnv3J_5Haa3dHoOMW26QuZ48KVwp9W1xf1vDeDpZduqK7lz-VrNz6WShiCM2WRUHWDsM=s900-c-k-c0x00ffffff-no-rj)  
+![Kailash Parshad](https://media.licdn.com/dms/image/D4D03AQF_RGNjROHCtQ/profile-displayphoto-shrink_200_200/0/1698392356378?e=1705536000&v=beta&t=WAU65Q6jVAgs6rJJxesANOYpRgbFnuukRvFQvMO0bEI)  
 Greetings! I'm Kailash Parshad, a dedicated Ethical Hacker, Penetration Tester, and ardent Cybersecurity Enthusiast. My passion for safeguarding digital landscapes and sharing knowledge has been the driving force behind my journey.
 
 [Visit My YouTube Channel](https://www.youtube.com/@HackProKP)
