@@ -26,7 +26,7 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
 
 #### Part 1.2: What is a Protocol
 
-- [Watch Video](link_to_youtube_video)
+- [Watch Video](https://www.youtube.com/watch?v=kOGot8npd00)
 - [Read Notes PDF](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Part%201.2%20What%20is%20a%20protocol%20-%20Computer%20Networks%20Fundamentals.pdf)
 
 #### Part 1.3: The OSI Model
