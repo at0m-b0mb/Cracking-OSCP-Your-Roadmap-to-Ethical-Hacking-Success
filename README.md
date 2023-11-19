@@ -31,7 +31,7 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
 
 #### Part 1.3: The OSI Model
 
-- [Watch Video](link_to_youtube_video)
+- [Watch Video](https://youtu.be/mj1s_CeDwlA)
 - [Read Notes PDF](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Part%201.3%20The%20OSI%20model%20-%20Computer%20Networks%20Fundamentals.pdf)
 
 #### Part 1.4: OSI Model Practical Example
