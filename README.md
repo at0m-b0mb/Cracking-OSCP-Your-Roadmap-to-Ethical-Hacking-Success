@@ -40,6 +40,11 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
 - [Read Notes PDF](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Part%201.4%20OSI%20Model%20Practical%20Example%20-%20Computer%20Networks%20Fundamentals.pdf)
 - [Cisco Packet Tracer (PKT)](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Resources/Cisco%20Packet%20Tracer/Part%201.4%20OSI%20Model%20Practical%20Example%20-%20Computer%20Networks%20Fundamentals.pkt)
 
+#### Part 1.5: OSI Model Practical Example
+
+- [Watch Video]()
+- [Read Notes PDF](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Part%201.5%20Other%20Network%20models%20-%20Computer%20Networks%20Fundamentals.pdf)
+
 ## Contributing
 If you'd like to contribute to this project, feel free to fork it and submit a pull request. Contributions are welcome!
 
