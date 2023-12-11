@@ -1,6 +1,6 @@
 # 🔐 Cracking OSCP: Your Roadmap to Ethical Hacking Success 
 
-[![image](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/assets/99875896/c3cb8e03-d6f1-48af-9a16-328c7bae8dd5)](https://www.youtube.com/@HackProKP)
+👑My Youtube Channel [![image](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/assets/99875896/c3cb8e03-d6f1-48af-9a16-328c7bae8dd5)](https://www.youtube.com/@HackProKP)
 
 ## 📽️ Playlist: Cracking OSCP - Your Roadmap to Ethical Hacking Success
 [▶️Complete Playlist](https://www.youtube.com/watch?v=MvkNbn8i2so&list=PLyrv3TPh3ejYNZipa0OIUvkdjHeUTRJ3J&index=1&t=0s)
