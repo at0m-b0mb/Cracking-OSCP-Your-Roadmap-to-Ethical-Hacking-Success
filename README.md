@@ -1,9 +1,9 @@
 # 🔐 Cracking OSCP: Your Roadmap to Ethical Hacking Success ✅
 
-[👑My Youtube Channel](https://www.youtube.com/@HackProKP)
+## [👑My Youtube Channel](https://www.youtube.com/@HackProKP)
 
-## 📽️ Playlist: Cracking OSCP - Your Roadmap to Ethical Hacking Success
-[▶️Complete YouTube Playlist](https://www.youtube.com/watch?v=MvkNbn8i2so&list=PLyrv3TPh3ejYNZipa0OIUvkdjHeUTRJ3J&index=1&t=0s)
+### 📽️ Playlist: Cracking OSCP - Your Roadmap to Ethical Hacking Success
+## [▶️Complete YouTube Playlist](https://www.youtube.com/watch?v=MvkNbn8i2so&list=PLyrv3TPh3ejYNZipa0OIUvkdjHeUTRJ3J&index=1&t=0s)
 
 Welcome to the "Cracking OSCP" playlist! This series is designed to guide you through the OSCP certification journey.
 
