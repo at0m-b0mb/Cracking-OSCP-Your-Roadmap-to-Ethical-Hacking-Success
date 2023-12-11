@@ -46,6 +46,12 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
     - [Watch Video](https://youtu.be/ngprr3x1iIQ)
     - [Read Notes PDF](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Part%201.5%20Other%20Network%20models%20-%20Computer%20Networks%20Fundamentals.pdf)
 
+  + Part 1.6: Computer Network History
+
+    - [Watch Video]()
+    - [Read Notes PDF](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Part%201.6%20Computer%20Networks%20history%20-%20Computer%20Networks%20Fundamentals.pdf)
+
+
 ## Contributing
 If you'd like to contribute to this project, feel free to fork it and submit a pull request. Contributions are welcome!
 
