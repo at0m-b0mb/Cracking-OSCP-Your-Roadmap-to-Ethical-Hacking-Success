@@ -43,7 +43,7 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
 
   + Part 1.5: Other Network Models
 
-    - [Watch Video]()
+    - [Watch Video](https://youtu.be/ngprr3x1iIQ)
     - [Read Notes PDF](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Part%201.5%20Other%20Network%20models%20-%20Computer%20Networks%20Fundamentals.pdf)
 
 ## Contributing
