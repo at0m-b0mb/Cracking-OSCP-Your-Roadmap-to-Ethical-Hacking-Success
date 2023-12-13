@@ -52,11 +52,11 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
     - [📹Video](https://youtu.be/Ik4Kdr-dE4A)
     - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Part%201.6%20Computer%20Networks%20history%20-%20Computer%20Networks%20Fundamentals.pdf)
     
-    + Section 1.0: Application Layer
-      + Part 1.0.0: What is the Application Layer - OSCP SERIES
+  + Section 1.0: Application Layer
+    + Part 1.0.0: What is the Application Layer - OSCP SERIES
 
-        - [📹Video]()
-        - [📝Notes]()
+      - [📹Video]()
+      - [📝Notes]()
 
 
 
