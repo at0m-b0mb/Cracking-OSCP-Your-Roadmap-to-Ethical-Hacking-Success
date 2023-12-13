@@ -10,7 +10,7 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
 ### ⭐ Your OSCP Journey Roadmap 🛣️
 
 + 🥇Section 0: Taking Notes and Screenshot
-  + Part 0.1: Taking Notes and Screenshot - OSCP SERIES
+  + Part 0.1: Taking Notes and Screenshot
 
     - [📹Video](https://www.youtube.com/watch?v=MvkNbn8i2so)
     - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%200.%20Taking%20Notes%20and%20Screenshot/Part%200.1%20Taking%20Notes%20and%20Screenshot%20-%20OSCP%20SERIES.pdf)
@@ -53,7 +53,7 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
     - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Part%201.6%20Computer%20Networks%20history%20-%20Computer%20Networks%20Fundamentals.pdf)
     
   + 🥇Section 1.0: Application Layer
-    + Part 1.0.0: What is the Application Layer - OSCP SERIES
+    + Part 1.0.0: What is the Application Layer 
 
       - [📹Video]()
       - [📝Notes]()
