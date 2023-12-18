@@ -1,5 +1,6 @@
 # 🔐 Cracking OSCP: Your Roadmap to Ethical Hacking Success ✅
 
+## ⭐ Subscribe to My Youtube Channel:
 <a href="https://www.youtube.com/@HackProKP?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2AMoUO4AwOk69rFFliDfKQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 
