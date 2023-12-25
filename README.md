@@ -9,6 +9,7 @@
 
 Welcome to the "Cracking OSCP" playlist! This series is designed to guide you through the OSCP certification journey.
 
+<details>
 ### ⭐ Your OSCP Journey Roadmap 🛣️
 
 + 🥇Section 0: Taking Notes and Screenshot
