@@ -75,7 +75,7 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
       - [📹Video](https://youtu.be/df-xmVLSasc)
       - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.1.%20Application%20Layer/Part%201.0.1%20P2P%20and%20Client-Server%20Architecture.pdf)
 
-    + Part 1.0.2: Part 1.0.2 HTTP (Hypertext Transfer Protocol)
+    + Part 1.0.2: HTTP (Hypertext Transfer Protocol)
 
       - [📹Video]()
       - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.1.%20Application%20Layer/Part%201.0.2%20HTTP%20(Hypertext%20Transfer%20Protocol).pdf)
