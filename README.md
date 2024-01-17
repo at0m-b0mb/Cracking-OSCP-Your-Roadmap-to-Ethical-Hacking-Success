@@ -1,11 +1,21 @@
 # 🔐 Cracking OSCP: Your Roadmap to Ethical Hacking Success ✅
 
+[![Learn Hacking rn](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=35&pause=1000&color=FFFF00&background=FFFFFF00&random=false&width=600&height=60&lines=%E2%9C%A8Learn+Ethical+Hacking+For+Free!!%E2%9C%A8)](https://linktr.ee/HackProKP)
+
+## [DON'T FORGET TO ⭐ THIS REPOSITORY !!](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/stargazers)
+
 ## ⭐ Subscribe to My Youtube Channel:
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@HackProKP?sub_confirmation=1)
 
 
 ### 📽️ Playlist: Cracking OSCP - Your Roadmap to Ethical Hacking Success
-## [▶️Complete YouTube Playlist](https://www.youtube.com/watch?v=MvkNbn8i2so&list=PLyrv3TPh3ejYNZipa0OIUvkdjHeUTRJ3J&index=1&t=0s)
+
+<a href="https://www.youtube.com/watch?v=MvkNbn8i2so&list=PLyrv3TPh3ejYNZipa0OIUvkdjHeUTRJ3J&index=1&t=0s">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=df-xmVLSasc&title=%F0%9F%94%90%20Cracking%20OSCP:%20Your%20Roadmap%20to%20Ethical%20Hacking%20Success%20%E2%9C%85&lang=en&timestamp=1704631419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5000">
+    <img src="https://ytcards.demolab.com/?id=df-xmVLSasc&title=%F0%9F%94%90%20Cracking%20OSCP:%20Your%20Roadmap%20to%20Ethical%20Hacking%20Success%20%E2%9C%85&lang=en&timestamp=1704631419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5000" alt="▶️Complete YouTube Playlist 🔐 Cracking OSCP: Your Roadmap to Ethical Hacking Success ✅" title="▶️Complete YouTube Playlist 🔐 Cracking OSCP: Your Roadmap to Ethical Hacking Success ✅">
+  </picture>
+</a>
 
 Welcome to the "Cracking OSCP" playlist! This series is designed to guide you through the OSCP certification journey.
 
