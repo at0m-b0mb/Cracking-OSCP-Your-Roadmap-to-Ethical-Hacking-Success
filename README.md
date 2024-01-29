@@ -12,7 +12,7 @@
 
 <a href="https://www.youtube.com/watch?v=MvkNbn8i2so&list=PLyrv3TPh3ejYNZipa0OIUvkdjHeUTRJ3J&index=1&t=0s">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=df-xmVLSasc&title=%F0%9F%94%90%20Cracking%20OSCP:%20Your%20Roadmap%20to%20Ethical%20Hacking%20Success%20%E2%9C%85&lang=en&timestamp=1704631419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=df-xmVLSasc&title=%F0%9F%94%90%20Cracking%20OSCP:%20Your%20Roadmap%20to%20Ethical%20Hacking%20Success%20%E2%9C%85&lang=en&timestamp=1704631419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=500000">
     <img src="https://ytcards.demolab.com/?id=df-xmVLSasc&title=%F0%9F%94%90%20Cracking%20OSCP:%20Your%20Roadmap%20to%20Ethical%20Hacking%20Success%20%E2%9C%85&lang=en&timestamp=1704631419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5000" alt="▶️Complete YouTube Playlist 🔐 Cracking OSCP: Your Roadmap to Ethical Hacking Success ✅" title="▶️Complete YouTube Playlist 🔐 Cracking OSCP: Your Roadmap to Ethical Hacking Success ✅">
   </picture>
 </a>
@@ -77,7 +77,7 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
 
     + Part 1.0.2: HTTP (Hypertext Transfer Protocol)
 
-      - [📹Video]()
+      - [📹Video](https://youtu.be/7tjVdZ3uNmc)
       - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.1.%20Application%20Layer/Part%201.0.2%20HTTP%20(Hypertext%20Transfer%20Protocol).pdf)
       - [🛜Cisco Packet Tracer (PKT)](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Resources/Cisco%20Packet%20Tracer/Part%201.0.2%20HTTP%20(Hypertext%20Transfer%20Protocol).pkt)
 
