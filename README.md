@@ -90,7 +90,7 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
       - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.1.%20Application%20Layer/Part%201.0.4%20FTP%20(File%20Transfer%20Protocol).pdf)
 
     + Part 1.0.5 Email (Electronic Mail)
-      - [📹Video]()
+      - [📹Video](https://youtu.be/hCPcywdT-TY)
       - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.1.%20Application%20Layer/Part%201.0.5%20Email%20(Electronic%20Mail).pdf)
 
 
