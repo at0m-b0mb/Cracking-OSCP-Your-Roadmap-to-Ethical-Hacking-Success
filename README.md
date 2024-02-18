@@ -2,9 +2,9 @@
 
 [![Learn Hacking rn](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=35&pause=1000&color=FFFF00&background=FFFFFF00&random=false&width=600&height=60&lines=%E2%9C%A8Learn+Ethical+Hacking+For+Free!!%E2%9C%A8)](https://linktr.ee/HackProKP)
 
-## [DON'T FORGET TO ⭐ THIS REPOSITORY !!](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/stargazers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Riot&size=30&pause=1000&color=02B6FF&random=false&width=520&lines=DON'T+FORGET+TO+%E2%AD%90+THIS+REPOSITORY!!)](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/stargazers)
 
-## ⭐ Subscribe to My Youtube Channel:
+## ▶️ Subscribe to My Youtube Channel:
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@HackProKP?sub_confirmation=1)
 
 
