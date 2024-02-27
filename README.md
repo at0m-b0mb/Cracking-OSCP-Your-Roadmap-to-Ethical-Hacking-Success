@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Riot&size=30&pause=1000&color=02B6FF&random=false&width=520&lines=DON'T+FORGET+TO+%E2%AD%90+THIS+REPOSITORY!!)](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/stargazers)
 
-## ▶️ Subscribe to My Youtube Channel:
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@HackProKP?sub_confirmation=1)
-
+## 😊 Subscribe to My Youtube Channel:
+<a href="https://www.youtube.com/@HackProKP?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2AMoUO4AwOk69rFFliDfKQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 
 ### 📽️ Playlist: Cracking OSCP - Your Roadmap to Ethical Hacking Success
 
