@@ -93,6 +93,11 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
       - [📹Video](https://youtu.be/hCPcywdT-TY)
       - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.1.%20Application%20Layer/Part%201.0.5%20Email%20(Electronic%20Mail).pdf)
 
+    + Part 1.0.6 DNS (Domain Name System)
+      - [📹Video]()
+      - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.1.%20Application%20Layer/Part%201.0.6%20DNS%20(Domain%20Name%20System).pdf)
+      - [🛜Cisco Packet Tracer (PKT)](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Resources/Cisco%20Packet%20Tracer/Part%201.0.6%20DNS%20(Domain%20Name%20System)%20-%20Computer%20Networks%20Fundamentals.pkt)
+
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork it and submit a pull request. Contributions are welcome!
