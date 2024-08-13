@@ -114,7 +114,7 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
 
     + Part 1.2.2 UDP Checksum
     
-      - [📹Video]()
+      - [📹Video](https://youtu.be/nR-KmFamb2o)
       - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.2%20Transport%20Layer/Part%201.2.2%20UDP%20Checksum.pdf)
 
 
