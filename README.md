@@ -118,6 +118,12 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
       - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.2%20Transport%20Layer/Part%201.2.2%20UDP%20Checksum.pdf)
 
 
+    + Part 1.2.3 TCP
+    
+      - [📹Video]()
+      - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.2%20Transport%20Layer/Part%201.2.3%20TCP.pdf)
+
+
 ## Contributing
 If you'd like to contribute to this project, feel free to fork it and submit a pull request. Contributions are welcome!
 
