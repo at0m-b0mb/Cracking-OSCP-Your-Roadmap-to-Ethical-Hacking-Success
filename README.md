@@ -122,6 +122,9 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
     
       - [📹Video]()
       - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.2%20Transport%20Layer/Part%201.2.3%20TCP.pdf)
+      - [🐍Python Files](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/tree/main/Resources/Python/Part%201.2.3%20TCP)
+      - [🗒️PCAP](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Resources/PCAP/Part%201.2.3%20TCP/TCP_Dump.pcapng)
+
 
 
 ## Contributing
