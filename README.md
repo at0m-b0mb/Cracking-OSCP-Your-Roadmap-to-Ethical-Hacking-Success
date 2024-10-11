@@ -125,6 +125,11 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
       - [🐍Python Files](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/tree/main/Resources/Python/Part%201.2.3%20TCP)
       - [🗒️PCAP](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Resources/PCAP/Part%201.2.3%20TCP/TCP_Dump.pcapng)
 
+  + 🥇Section 1.3 Network Layer
+    + Part 1.3.0 Network Layer
+    
+      - [📹Video]()
+      - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.3%20Network%20Layer/Part%201.2.0%20Introduction%20to%20the%20Network%20Layer.pdf)
 
 
 ## Contributing
