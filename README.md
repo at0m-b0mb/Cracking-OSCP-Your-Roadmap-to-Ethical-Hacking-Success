@@ -129,7 +129,14 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
     + Part 1.3.0 Network Layer
     
       - [📹Video]()
-      - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.3%20Network%20Layer/Part%201.2.0%20Introduction%20to%20the%20Network%20Layer.pdf)
+      - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.3%20Network%20Layer/Part%201.3.0%20Introduction%20to%20the%20Network%20Layer.pdf)
+
+
+    + Part 1.3.1 Network Layer
+    
+      - [📹Video]()
+      - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.3%20Network%20Layer/Part%201.3.1%20IP%20Address.pdf)
+
 
 
 ## Contributing
