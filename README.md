@@ -128,7 +128,7 @@ Welcome to the "Cracking OSCP" playlist! This series is designed to guide you th
   + 🥇Section 1.3 Network Layer
     + Part 1.3.0 Network Layer
     
-      - [📹Video]()
+      - [📹Video](https://youtu.be/DJ4HqtILik0)
       - [📝Notes](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success/blob/main/Video%20Notes/Section%201.%20Computer%20Networks%20Fundamentals/Section%201.3%20Network%20Layer/Part%201.3.0%20Introduction%20to%20the%20Network%20Layer.pdf)
 
 
